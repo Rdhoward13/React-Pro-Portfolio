@@ -5,14 +5,15 @@ import {Link} from "react-scroll"
 
 const Home = () => {
   return (
-    <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'>
-        <div className='max-w-screen-lg mx-auto flex flex-col item-center justify-center h-full px-4 md:flex-row '>
+    <div name="home" 
+    className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'>
+        <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row '>
             <div className='flex flex-col justify-center h-full '>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
                     I am a Full Stack Developer!
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    I recently graduated from The Ohio State University Full Development Boot-Camp for full stack development. I am currently looking for a good fit to showcase my skills and previous leadership experience.
+                    I recently graduated from The Ohio State University Bootcamp for full stack development. I am currently looking for a good fit to showcase my skills and previous leadership experience.
                     I love to work on web applications using technologies like React, Javascript, GraphQl, RestfulApis, and MongoDB.
                 </p>
                 <div>
@@ -24,11 +25,12 @@ const Home = () => {
                         </span>
                     </Link>
                 </div>
+                
             </div>
             <div>
-                <img src={websitepic} 
+                <img src={websitepic}
                 alt="my profile" 
-                className='rounded-2xl mx-auto w-2/3  md:w-full ' />
+                className='rounded-2xl mx-auto w-2/3  md:w-full' />
             </div>
         </div>
     </div>

@@ -11,12 +11,16 @@ const About = () => {
         </p>
     </div>
     <p className='text-xl mt-20'>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate, fuga. Consectetur eos asperiores saepe, iusto facilis sit error officia, natus quia eum minima dolorum ullam, recusandae expedita ducimus sint fuga aut deleniti numquam atque eius suscipit ut pariatur! Nobis quisquam deleniti at asperiores, veniam magni officiis officia corporis ut facere?
+        My name is Rachel Howard and I have recently found a love for creating applications and trying new technologies to make my projects more interactive and appealing. 
+        
     </p>
 
     <br />
     <p className='text-xl'>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi aperiam ea, omnis voluptas provident deserunt perferendis sed officiis harum enim accusantium ab dolorem, ullam quibusdam fugit eaque expedita vitae voluptates, officia laboriosam culpa esse eius est. Eum quasi molestias accusantium consectetur ad asperiores sapiente eius illo, deleniti, eos sed eligendi?3
+        I have found msyelf to be a fast learner and enjoy trying new things. 
+        I hope to find myself in a position where I can successfully learn under a great leader and give that same credit back to those who come after me. 
+        I would also love to be involved in a project that challenges me and helps me become a better teammate and developer. 
+        Any outside projects who needs a new developer eager to learn, feel free to leave me a message below!
     </p>
 </div>
 
