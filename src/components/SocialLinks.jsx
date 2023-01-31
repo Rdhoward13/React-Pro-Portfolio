@@ -11,7 +11,7 @@ const SocialLinks = () => {
             child: (
                 <>
                     LinkedIn <FaLinkedin size={30} />
-                    </> 
+                </> 
             ),
             href: 'https://www.linkedin.com/in/rachel-howard-088832a8/',
             style: 'rounded-tr-md',
@@ -21,7 +21,7 @@ const SocialLinks = () => {
             child: (
                 <>
                     Github <FaGithub size={30} />
-                    </> 
+                </> 
             ),
             href: 'https://github.com/Rdhoward13',
            
@@ -31,7 +31,7 @@ const SocialLinks = () => {
             child: (
                 <>
                     Mail <HiOutlineMail size={30} />
-                    </> 
+                </> 
             ),
             href: 'mailto:rdfields13@gmail.com',
             
